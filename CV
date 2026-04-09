@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <title>CV</title>
+
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/cv.css">
+
+</head>
+
+<body class="fondo">
+
+    <main class="container tarjeta">
+
+        <div class="row">
+
+            <div class="col-9 order-2 contenido">
+                
+                <section class="about-me">
+                    <h1>CATHERINE DANAE LOPEZ MARTINEZ</h1>
+                    <h2>Licenciada en Diseño Gráfico</h2>
+
+                    <h3>Acerca de mí</h3>
+                    <p>
+                        Soy una persona creativa y responsable. Me gusta aprender cosas nuevas
+                        y mejorar mis habilidades cada día. Disfruto trabajar en equipo y
+                        aportar ideas en proyectos de diseño.
+                    </p>
+                </section>
+
+                <section class="education">
+                    <h3>Educación</h3>
+
+                    <p><b>Licenciatura en Diseño Gráfico</b></p>
+                    <p>Universidad Vizcaya de las Américas (2022-2026)</p>
+                    <p>UAdeC Luis Donaldo Colosio Murrieta</p>
+                </section>
+
+                <section class="laboral-experience">
+                    <h3>Experiencia</h3>
+
+                    <ul>
+                        <li>Community Manager</li>
+                        <li>Diseño de publicaciones para redes sociales</li>
+                        <li>Creación de logotipos</li>
+                        <li>Branding básico</li>
+                    </ul>
+
+                </section>
+
+            </div>
+
+            <aside class="col-3 sidebar">
+
+                <h3>Software</h3>
+
+                <ul>
+                    <li>Illustrator</li>
+                    <li>Photoshop</li>
+                    <li>Canva</li>
+                    <li>CapCut</li>
+                    <li>HTML super básico</li>
+                </ul>
+
+                <h3>Idiomas</h3>
+
+                <ul>
+                    <li>Español</li>
+                    <li>Inglés medio</li>
+                </ul>
+
+            </aside>
+
+        </div>
+
+        <section class="contacto">
+            <h3>Contacto</h3>
+
+            <p>
+                <a href="tel:8611350679"> 861 135 06 79</a>
+            </p>
+
+            <p>
+                <a href="mailto:danalopez562@gmail.com">
+                    danalopez562@gmail.com
+                </a>
+            </p>
+
+            <p>
+                <a href="https://www.instagram.com/danaelopez2345" target="_blank">
+                    @danaelopez2345
+                </a>
+            </p>
+
+        </section>
+
+    </main>
+
+</body>
+</html>
